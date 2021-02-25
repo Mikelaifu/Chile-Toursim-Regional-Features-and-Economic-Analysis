@@ -1,0 +1,16 @@
+﻿Region,Longitude,Latitude,rank_with_weights,colors,Area(square_miles)
+Metropolitana,-70.645348,-33.459229,15,midnightblue,5947
+Valparaíso,-71.626953,-33.03558,14,navy,115
+Biobío,-73.1644,-36.8194,13,darkblue,9224
+Los Lagos,-72.94289,-41.46574,12,mediumblue,18758
+Antofagasta,-70.3954,-23.65236,11,blue,11861
+Araucanía,-72.666664,-38.8999964,10,royalblue,12294
+Coquimbo,-71.33947,-29.95332,9,cornflowerblue,552
+O'Higgins,-72.5667,-48.4667,8,dodgerblue,3159
+Tarapacá,-70.14222,-20.2167,7,deepskyblue,16139
+Maule,-71.66966399,-35.42266498,6,lightskyblue,73.36
+Magallanes y Antártica,-70.9225,-53.1625,5,lightblue,51078
+Arica y Parinacota,-70.30866543,-18.47166478,4,powderblue,6515
+Los Ríos,-73.247223,-39.820141,3,lightsteelblue,7116
+Atacama,-69.141624,-23.863419,2,lightcyan,40541
+Aysén,-72.05966643,-45.56866439,1,azure,41890
